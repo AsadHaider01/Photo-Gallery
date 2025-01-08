@@ -22,6 +22,9 @@ This is a simple movie website that displays movies from various genres like Bol
 
 ## How to Use
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/movie-genre-website.git
+
+
+- The link `[Click here to visit the Movie Genre Website](https://photo-gallery-brown-five.vercel.app/)` now behaves as a clickable link.
+- When users click on the link, it will open your website in a new tab.
+
+Let me know if you need further adjustments!
