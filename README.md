@@ -20,15 +20,5 @@ This is a simple movie website that displays movies from various genres like Bol
 - **CSS**: To style the website and make it visually appealing.
 - **JavaScript**: To make the buttons functional and display movies when a button is clicked.
 
-**Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/movie-genre-website.git
-
-
-
-### Explanation of the Button:
-- I used an image shield (`![View Page](https://img.shields.io/badge/View%20Page-Click%20Here-brightgreen)`) to create a "button-like" link in Markdown.
-- When the user clicks on this shield-style link, it will open the [Vercel page](https://photo-gallery-brown-five.vercel.app/).
-
-Let me know if you'd like any other changes!
+[View Now](https://photo-gallery-brown-five.vercel.app/)
 
