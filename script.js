@@ -49,3 +49,18 @@ function alls(){
     imgs.style.display = "inline"
     })
 }
+
+var inputs =document.getElementById("input");
+
+inputs.addEventListener("input", function(){
+    var input2 = inputs.value;
+    imgs.forEach(function(imgs){
+
+    if(imgs.alt.includes(input2)){
+        imgs.style.display = "inline"
+    }
+    else{
+        imgs.style.display = "none"
+    }
+})
+})
