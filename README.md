@@ -20,11 +20,6 @@ This is a simple movie website that displays movies from various genres like Bol
 - **CSS**: To style the website and make it visually appealing.
 - **JavaScript**: To make the buttons functional and display movies when a button is clicked.
 
-## How to Use
-
-
-
-- The link `[Click here to visit the Movie Genre Website](https://photo-gallery-brown-five.vercel.app/)` now behaves as a clickable link.
-- When users click on the link, it will open your website in a new tab.
-
-Let me know if you need further adjustments!
+**Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/movie-genre-website.git
